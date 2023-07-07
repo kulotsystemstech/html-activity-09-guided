@@ -1,0 +1,12 @@
+.idea
+.vscode
+.DS_Store
+/src/img/*
+!/src/img/cover.jpg
+!/src/img/cover-320x240.jpg
+!/src/img/cover-480x320.jpg
+!/src/img/cover-768x280.jpg
+!/src/img/cover-992x360.jpg
+!/src/img/wallpaper-01.jpg
+!/src/img/wallpaper-02.jpg
+/src/index-final.html
