@@ -112,7 +112,7 @@ we will use the `<picture>` tag.
         ...
 ```
 
-Each `<source>` inside the `<picture>` tag  defines an image source.
+Each `<source/>` inside the `<picture>` tag  defines an image source.
 Its `media` attribute sets the **condition** for using that source,
 while the `srcset` attribute points to the **image file path** or **URL**.
 The fallback or default image source must be defined at the end.
